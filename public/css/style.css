@@ -1,0 +1,59 @@
+body {
+    background-color: #204d1b;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    margin-left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 50px;
+}
+
+.inputs {
+    display: block;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: none;
+}
+
+.image {
+    margin-left: 50%;
+    transform: translate(-50%);
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
+h1,
+h2 {
+    color: white;
+}
+
+label {
+    display: block;
+    color: white;
+}
+
+.buttons {
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin-left: 50%;
+    transform: translate(-50%);
+    border-radius: 30px;
+    background-color: #a3cc9f;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    color: white;
+    font-size: 20px;
+}
